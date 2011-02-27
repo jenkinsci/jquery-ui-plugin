@@ -4,11 +4,11 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
-    <version>1.396</version>
+    <version>1.397</version>
   </parent>
 
   <artifactId>jquery-ui</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.0.2-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <name>Jenkins jQuery UI plugin</name>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/jQuery+UI+Plugin</url>
@@ -24,7 +24,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>jquery</artifactId>
-      <version>1.0.1</version>
+      <version>1.0.2</version>
     </dependency>
   </dependencies>
 
