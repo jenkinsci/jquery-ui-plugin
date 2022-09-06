@@ -28,6 +28,10 @@
     </dependency>
   </dependencies>
 
+  <properties>
+    <Jenkins.version>2.289.1</Jenkins.version>
+  </properties>
+
   <repositories>
     <repository>
       <id>repo.jenkins-ci.org</id>
